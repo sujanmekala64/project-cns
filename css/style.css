@@ -4,11 +4,11 @@ body {
     margin-top: 1px;
     font-family: 'Merriweather', serif;
     color: black;
-    background-color: rgb(241, 242, 243);
+    background-color: rgb(33, 132, 230);
 }
 
 .heading {
-    background-color: rgb(241, 242, 243);
+    background-color: rgb(24, 212, 209);
     border: 1px solid black;
 }
 
@@ -100,7 +100,7 @@ hr {
 .button {
     width: 120px;
     height: 40px;
-    background-color: #ff5733;
+    background-color: greenyellow;
     border-radius: 10px;
     display: inline-flex;
     justify-content: center;
